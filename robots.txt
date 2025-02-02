@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://thepeachza.github.io/fruiterra-blog/sitemap.xml
