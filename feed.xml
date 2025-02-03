@@ -3,7 +3,7 @@
     <title>Fruiterra Blogs</title>
     <link href="https://thepeachza.github.io/thepeachza.github.io/feed.xml" rel="self" />
     <link href="https://thepeachza.github.io/thepeachza.github.io" />
-    <updated>2025-02-03T12:53:40+02:00</updated>
+    <updated>2025-02-03T13:05:29+02:00</updated>
     <author>
         <name>Cameron Varga</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://thepeachza.github.io/thepeachza.github.io/zen-browser-a-breath-of-fresh-air-2.html"/>
         <id>https://thepeachza.github.io/thepeachza.github.io/zen-browser-a-breath-of-fresh-air-2.html</id>
+        <media:content url="https://thepeachza.github.io/thepeachza.github.io/media/posts/2/20250203-002-1-2.png" medium="image" />
             <category term="tech"/>
             <category term="software"/>
             <category term="review"/>
@@ -23,20 +24,18 @@
         <updated>2025-02-03T00:51:08+02:00</updated>
             <summary>
                 <![CDATA[
-                    I have always been someone who likes to switch things up from time to time. This time is no different. I had previously been using Arc Browser, and before that Thorium as my daily drivers to surfing the web. I moved from Thorium because I&hellip;
+                        <img src="https://thepeachza.github.io/thepeachza.github.io/media/posts/2/20250203-002-1-2.png" alt="" />
+                    I have always been someone who likes to switch things up from time to time. This time is no different.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://thepeachza.github.io/thepeachza.github.io/media/posts/2/20250203-002-1-2.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
     I have always been someone who likes to switch things up from time to time. This time is no different. I had previously been using Arc Browser, and before that Thorium as my daily drivers to surfing the web. I moved from Thorium because I wanted to try something fresh, however, moving from Arc was something more bitter.
   </p>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://thepeachza.github.io/thepeachza.github.io/media/posts/2/20250203-002-1.png" height="1280" width="1920" alt="Zen Browser vs Arc Browser"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://thepeachza.github.io/thepeachza.github.io/media/posts/2/responsive/20250203-002-1-xs.png 640w ,https://thepeachza.github.io/thepeachza.github.io/media/posts/2/responsive/20250203-002-1-sm.png 768w ,https://thepeachza.github.io/thepeachza.github.io/media/posts/2/responsive/20250203-002-1-md.png 1024w ,https://thepeachza.github.io/thepeachza.github.io/media/posts/2/responsive/20250203-002-1-lg.png 1366w ,https://thepeachza.github.io/thepeachza.github.io/media/posts/2/responsive/20250203-002-1-xl.png 1600w ,https://thepeachza.github.io/thepeachza.github.io/media/posts/2/responsive/20250203-002-1-2xl.png 1920w">
-      
-    </figure>
+<hr class="separator separator--dots" />
 
     <h2 id="arc-im-disappointed">
       Arc... I'm disappointed...
