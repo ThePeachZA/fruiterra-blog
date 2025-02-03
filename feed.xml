@@ -1,12 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Fruiterra</title>
-    <link href="https://thepeachza.github.io/fruiterra-blog/feed.xml" rel="self" />
-    <link href="https://thepeachza.github.io/fruiterra-blog" />
-    <updated>1970-01-01T02:00:00+02:00</updated>
+    <title>Fruiterra Blogs</title>
+    <link href="https://thepeachza.github.io/thepeachza.github.io/feed.xml" rel="self" />
+    <link href="https://thepeachza.github.io/thepeachza.github.io" />
+    <updated>2025-02-03T12:53:40+02:00</updated>
     <author>
         <name>Cameron Varga</name>
     </author>
-    <id>https://thepeachza.github.io/fruiterra-blog</id>
+    <id>https://thepeachza.github.io/thepeachza.github.io</id>
 
+    <entry>
+        <title>Zen vs Arc: A Breath of Fresh Air</title>
+        <author>
+            <name>Cameron Varga</name>
+        </author>
+        <link href="https://thepeachza.github.io/thepeachza.github.io/zen-browser-a-breath-of-fresh-air-2.html"/>
+        <id>https://thepeachza.github.io/thepeachza.github.io/zen-browser-a-breath-of-fresh-air-2.html</id>
+            <category term="tech"/>
+            <category term="software"/>
+            <category term="review"/>
+
+        <updated>2025-02-03T00:51:08+02:00</updated>
+            <summary>
+                <![CDATA[
+                    I have always been someone who likes to switch things up from time to time. This time is no different. I had previously been using Arc Browser, and before that Thorium as my daily drivers to surfing the web. I moved from Thorium because I&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    I have always been someone who likes to switch things up from time to time. This time is no different. I had previously been using Arc Browser, and before that Thorium as my daily drivers to surfing the web. I moved from Thorium because I wanted to try something fresh, however, moving from Arc was something more bitter.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://thepeachza.github.io/thepeachza.github.io/media/posts/2/20250203-002-1.png" height="1280" width="1920" alt="Zen Browser vs Arc Browser"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://thepeachza.github.io/thepeachza.github.io/media/posts/2/responsive/20250203-002-1-xs.png 640w ,https://thepeachza.github.io/thepeachza.github.io/media/posts/2/responsive/20250203-002-1-sm.png 768w ,https://thepeachza.github.io/thepeachza.github.io/media/posts/2/responsive/20250203-002-1-md.png 1024w ,https://thepeachza.github.io/thepeachza.github.io/media/posts/2/responsive/20250203-002-1-lg.png 1366w ,https://thepeachza.github.io/thepeachza.github.io/media/posts/2/responsive/20250203-002-1-xl.png 1600w ,https://thepeachza.github.io/thepeachza.github.io/media/posts/2/responsive/20250203-002-1-2xl.png 1920w">
+      
+    </figure>
+
+    <h2 id="arc-im-disappointed">
+      Arc... I'm disappointed...
+    </h2>
+
+  <p>
+    My experience with Arc started off great! Vertical tabs is by no means a feature that <em>The Browser Company</em> invented, but oh boy did they perfect it. Visually, Arc Browser is subjectively a beautiful looking browser—from font choices, to colour schemes, to the innovative layout—truly a rejuvenating experience. It took me some time to get used to using pinned tabs and apps over bookmarks, but I eventually fell in love with the way it works. Split view, workspaces, keyboard shortcuts, and side-bar sync really set the bar for what a browser should be able to in today's world.
+  </p>
+
+  <p>
+    The beginning of my problems start with me. I'm a Windows user, and that's not really something I can or am willing to change at the moment. Arc was built with Macs in mind, and it showed (especially since the Windows version of the browser is in beta). Majority of the customisability features showcased in their marketing material was exclusive to their Mac version—including the single side-bar and the additional workspace customisation options.&nbsp;
+  </p>
+
+  <p>
+    Arc also wasn't by any means the fastest browser I had used. It was slower than Thorium at loading pages, and sometimes navigating the UI felt a bit slow. It also had a higher performance cost than Thorium. I don't have an absolute beast of a machine, but I still have specs good enough to be able to run solo-man broadcasts for majority of esports titles. Using a browser is an important part of running the show, so I need to be fast, efficient, and productive. I didn't experience any issues during my time on this particular topic, but I'd still rather find something more optimal for me.
+  </p>
+
+  <p>
+    The writing on the wall for me has to do with the announcement of "Dia"—a second browser being created by&nbsp;<em>The Browser Company</em>. I was a bit sceptical when I heard about this, and rightfully so. I'm not the biggest fan of certain modern artificial intelligence features—particularly text and image generation. While it doesn't mean that I hate AI as a whole, when the word AI gets thrown around, I get nervous.&nbsp;
+  </p>
+
+  <p>
+    "Dia" is a browser that is designed to bring AI holistically into the browser, from the cursor, to browsing, and to day-to-day tasks. Once again, <i>The Browser Company </i>is showcasing and promising many innovative features. And while it might once again revolutionise productivity within the browser space, it does mean one thing: Arc is getting left behind. "Dia" is not an integration or update to Arc; it's a brand new browser in its entirely. <i>The Browser Company </i>said to us that they would be focussing majority of their time on developing this browser. That means no more major feature updates. It also leaves me unsure whether the problems that come with running Arc on Windows will be fixed, or the features shipped.&nbsp;
+  </p>
+
+  <p>
+    And that's when I found Zen, again.&nbsp;
+  </p>
+
+    <h2 id="zen-does-it-right-and-does-it-well">
+      Zen does it right, and does it well.
+    </h2>
+
+  <p>
+    Now it's not the first time I'm using Zen Browser. I actually used it a long time ago, much earlier in its development. But at the time, I was only using it to play around with rather than it being my daily driver. When I saw how far it had come since I last used it, I decided that I would give it another bash, but this time as my new browser of choice.
+  </p>
+
+  <p>
+    Zen shares many features that Arc has: pinned apps and tabs, vertical tabs, split view,  workspaces, custom workspace colours. Where it shines is in its customisability and community. Pretty much everything abut Zen can be configured to your liking thanks to custom CSS. Furthermore, Zen promotes a library of "Zen Mods", which are community-made configurations that alter a variety of elements, from the URL bar, to the theme, and even the context menu. For the more experienced user, you can do your own customisations by editing the "userChrome.css" file in your profile's folder. It really is a browser that you can make your own.
+  </p>
+
+  <p>
+    Zen is fast. At least, it feels like it. I haven't done extensive testing at this time to compare page load speeds, but it just feels snappier. The UI doesn't lag when I navigate it, and it uses far less system resources when being run. This is a big positive for me, since I want to be as efficient with my system resources as possible, especially during a broadcast.
+  </p>
+
+  <p>
+    Zen is not perfect, yet. Some features that I miss are the groups/folders in pinned tabs and sidebar sync across devices. With Zen being updated to Firefox 135 on the horizon, the promise of tab groups is exciting, especially given how much we will be able to customise it proven by how many community members were customising the experimental flag for grouped tabs. Sidebar sync is a different story. Firefox does support tab syncing across devices, but it's not automatic like Arc. Instead, you have to manually open the synced tabs from the drop-down menu. Not the end of the world, but a small pain.
+  </p>
+
+  <p>
+    Firefox also doesn't support picture-in-picture the same way Arc and Chromium-based browsers do. Arc has the ability to auto-PIP a playing video when switching tabs, whereas Zen does not. You can pop-out videos from tabs to play them PIP, but it's like opening a new window, and it feels rather clunky.
+  </p>
+
+  <p>
+    While Zen does have its current pitfalls, the browser checks all the boxes that I wanted. It's efficient. It's customisable. It's productive. It's intuitive. It's fresh. And that's why it is my current browser of choice.
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
